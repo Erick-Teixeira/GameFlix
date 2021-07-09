@@ -5,4 +5,3 @@
  - CSS
  - JavaScript
  - Jquery
-## Link: https://erick-teixeira.github.io/GameFlix/
